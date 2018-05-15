@@ -3,7 +3,7 @@
   "version": "6.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "ng serve --open",
+    "start": "http-server-spa dist index.html $PORT",
     "http-server": "http-server dist/ -c-1",
     "build": "ng build",
     "build:library": "ng build ngx-example-library",
@@ -17,7 +17,9 @@
     "sme": "ng build && source-map-explorer dist/main.bundle.js",
     "release:minor": "standard-version --release-as minor && git push --follow-tags origin master",
     "release:major": "standard-version --release-as major && git push --follow-tags origin master",
-    "docker": "docker build -t angularexampleapp . && docker run -d -p 4200:80 angularexampleapp"
+    "docker": "docker build -t angularexampleapp . && docker run -d -p 4200:80 angularexampleapp",
+    "preinstall": "npm install -g http-server-spa",
+    "postinstall": "ng build --prod --aot"
   },
   "private": true,
   "engines": {
