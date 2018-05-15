@@ -57,8 +57,8 @@
   "dataGroups": [],
   "hashTable": {
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/assets/CNAME": "9c4f0683cedd3eacb49584354ccc95dbb439ca48",
-    "/index.html": "324ce9ce99e1ea45305ee91e9d559d8939c787da",
+    "/assets/CNAME": "9fd461a396712d729d74573ea4ce1ed229b0becd",
+    "/index.html": "541c815216d0528649dcb8e7cf3c0f83f49dc03c",
     "/assets/css/loading.css": "b2fb4239d4fcff487b71e8bc252904c7163e849c",
     "/assets/css/reset.css": "98e924ee8c54cf2e58cbd479eb9e2802a9f5666b",
     "/assets/googled41787c6aae2151b.html": "a9fc98624735e71879021f130b38cf19491bb7c5",
@@ -90,7 +90,7 @@
     "/assets/images/heroes/default.png": "4ba5c23dab24b6cb77cd8794a4b64b6e54998c31",
     "/assets/js/gtm.js": "091e299679f39dee3a72ea7bbcff930a8c4402c7",
     "/assets/js/modernizr.js": "bd2c046e84848d884d13ebabe0bb13976b66fb91",
-    "/assets/sitemap.xml": "85cdb4254fb18b0dda96d97f0082f056079ff9a6"
+    "/assets/sitemap.xml": "df515ef4a006acba531c4b54ee4832b63d553647"
   },
   "navigationUrls": [
     {
