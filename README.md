@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example app with Angular 6 + Angular CLI + Angular Material + Docker + Angular Example Library
 
 > ### Base project made with much  :heart: . Contains CRUD, patterns, generated library, etc.
@@ -120,3 +121,7 @@ If you have an idea or you want to do something, tell me or just do it!
 I'm always happy to hear your feedback!
 
 Enjoy :metal:
+=======
+# ieportal
+IE Portal
+>>>>>>> 4378ee3be59e29563b13fb1f3a68fc64a7397754
